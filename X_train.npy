@@ -1,0 +1,1 @@
+X_train = np.random.rand(100, 30, 4)
